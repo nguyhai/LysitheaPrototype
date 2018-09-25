@@ -1,0 +1,32 @@
+{
+    "id": "4e8653a6-1712-483b-b280-355ddbca4635",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "4e8653a6-1712-483b-b280-355ddbca4635",
+    "children": [
+        "3f618b91-04a7-4077-9b9f-39131360109f",
+        "d45b2862-0764-4368-9a40-cfb9af5bba8a",
+        "90177fbd-f031-490f-910e-5cf8913e7426",
+        "10ff422b-dc5a-4f92-9f79-27e59ee9f734",
+        "83efe7ea-8674-4e5d-8215-47cbd644d42f",
+        "636b7dc2-2807-4396-bc00-ab208dc35345",
+        "80787f69-ef94-4452-b36d-2c4b5031cccd",
+        "06c09206-371b-494a-b249-0ab266ccf650",
+        "ba1ec09d-592b-466c-9ca6-5a9c86201b7f",
+        "d915066b-b1fb-4626-a6ee-221cc9d93c32",
+        "a5157b7a-80be-40fe-8092-17ddc2f4945e",
+        "56e14b16-5b08-4f33-9cb4-336c42de25ff",
+        "46a526bf-224c-4520-8861-819bfdfcb6d0",
+        "6374a38c-0e5a-4801-8f4c-9853d7430549",
+        "325ae3d4-4731-4a33-a974-b28a0d2dfcd2",
+        "606d6756-c2c2-4442-ae9d-b93bba327326",
+        "1784d043-2687-4bb3-b598-020a4852c18b",
+        "530c76bc-55c0-4267-b0c3-efe1372a5d56",
+        "d6b91bc0-fdd9-4cdc-8865-42647d6c36e3",
+        "39dd132b-8dda-4066-9a5c-12330485463a"
+    ],
+    "filterType": "GMSprite",
+    "folderName": "Shops",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

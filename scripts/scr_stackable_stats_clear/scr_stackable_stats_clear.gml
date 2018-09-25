@@ -1,0 +1,60 @@
+/// @DnDAction : YoYo Games.Common.Execute_Code
+/// @DnDVersion : 1
+/// @DnDHash : 4F3550E9
+/// @DnDArgument : "code" "/// Clears out o_item_drop_stackable_stats. object -1$(13_10)o_item_drop_stackable_stats.index				 = -1;$(13_10)o_item_drop_stackable_stats.type				 = -1;$(13_10)o_item_drop_stackable_stats.levelreq			 = -1;$(13_10)o_item_drop_stackable_stats.mindamage			 = -1;	$(13_10)o_item_drop_stackable_stats.maxdamage			 = -1;	$(13_10)o_item_drop_stackable_stats.sockets				 = -1;	$(13_10)o_item_drop_stackable_stats.name				 = -1;$(13_10)o_item_drop_stackable_stats.description			 = -1;	$(13_10)o_item_drop_stackable_stats.rarity				 = -1;	$(13_10)o_item_drop_stackable_stats.stackable			 = -1;	$(13_10)o_item_drop_stackable_stats.stackcount			 = -1;	$(13_10)o_item_drop_stackable_stats.critical			 = -1;$(13_10)o_item_drop_stackable_stats.upgradelevel		 = -1;$(13_10)o_item_drop_stackable_stats.sprite				 = -1;	$(13_10)o_item_drop_stackable_stats.spriteindex			 = -1;	$(13_10)o_item_drop_stackable_stats.healamount			 = -1;	$(13_10)o_item_drop_stackable_stats.defense				 = -1;	$(13_10)o_item_drop_stackable_stats.physresist			 = -1;	$(13_10)o_item_drop_stackable_stats.fireresist			 = -1;	$(13_10)o_item_drop_stackable_stats.lightningresist		 = -1;	$(13_10)o_item_drop_stackable_stats.iceresist			 = -1;	$(13_10)o_item_drop_stackable_stats.lightresist			 = -1;	$(13_10)o_item_drop_stackable_stats.shadowresist		 = -1;$(13_10)o_item_drop_stackable_stats.allelementresist	 = -1;$(13_10)o_item_drop_stackable_stats.subweapon			 = -1;	$(13_10)o_item_drop_stackable_stats.socket1				 = -1;	$(13_10)o_item_drop_stackable_stats.socket2				 = -1;	$(13_10)o_item_drop_stackable_stats.socket3				 = -1;	$(13_10)o_item_drop_stackable_stats.abilities			 = -1;	$(13_10)o_item_drop_stackable_stats.ability1			 = -1;$(13_10)o_item_drop_stackable_stats.ability2			 = -1;$(13_10)o_item_drop_stackable_stats.ability3			 = -1;$(13_10)o_item_drop_stackable_stats.statbonuses			 = -1;	$(13_10)o_item_drop_stackable_stats.strbonus			 = -1;$(13_10)o_item_drop_stackable_stats.dexbonus			 = -1;$(13_10)o_item_drop_stackable_stats.intelbonus			 = -1;	$(13_10)o_item_drop_stackable_stats.vitbonus			 = -1;$(13_10)o_item_drop_stackable_stats.physbonus			 = -1;	$(13_10)o_item_drop_stackable_stats.firebonus			 = -1;	$(13_10)o_item_drop_stackable_stats.lightningbonus		 = -1;	$(13_10)o_item_drop_stackable_stats.icebonus			 = -1;$(13_10)o_item_drop_stackable_stats.lightbonus			 = -1;	$(13_10)o_item_drop_stackable_stats.shadowbonus			 = -1;	$(13_10)o_item_drop_stackable_stats.allelementbonus		 = -1;	$(13_10)o_item_drop_stackable_stats.set					 = -1;	$(13_10)o_item_drop_stackable_stats.setbonus1			 = -1;	$(13_10)o_item_drop_stackable_stats.setbonus2			 = -1;	$(13_10)o_item_drop_stackable_stats.setbonus3			 = -1;	$(13_10)o_item_drop_stackable_stats.setdescription1		 = -1;	$(13_10)o_item_drop_stackable_stats.setdescription2		 = -1;	$(13_10)o_item_drop_stackable_stats.setdescription3		 = -1;$(13_10)o_item_drop_stackable_stats.statbonus1			 = -1;	$(13_10)o_item_drop_stackable_stats.statbonus2			 = -1;	$(13_10)o_item_drop_stackable_stats.statbonus3			 = -1;	$(13_10)o_item_drop_stackable_stats.evasion				 = -1;"
+/// Clears out o_item_drop_stackable_stats. object -1
+o_item_drop_stackable_stats.index				 = -1;
+o_item_drop_stackable_stats.type				 = -1;
+o_item_drop_stackable_stats.levelreq			 = -1;
+o_item_drop_stackable_stats.mindamage			 = -1;	
+o_item_drop_stackable_stats.maxdamage			 = -1;	
+o_item_drop_stackable_stats.sockets				 = -1;	
+o_item_drop_stackable_stats.name				 = -1;
+o_item_drop_stackable_stats.description			 = -1;	
+o_item_drop_stackable_stats.rarity				 = -1;	
+o_item_drop_stackable_stats.stackable			 = -1;	
+o_item_drop_stackable_stats.stackcount			 = -1;	
+o_item_drop_stackable_stats.critical			 = -1;
+o_item_drop_stackable_stats.upgradelevel		 = -1;
+o_item_drop_stackable_stats.sprite				 = -1;	
+o_item_drop_stackable_stats.spriteindex			 = -1;	
+o_item_drop_stackable_stats.healamount			 = -1;	
+o_item_drop_stackable_stats.defense				 = -1;	
+o_item_drop_stackable_stats.physresist			 = -1;	
+o_item_drop_stackable_stats.fireresist			 = -1;	
+o_item_drop_stackable_stats.lightningresist		 = -1;	
+o_item_drop_stackable_stats.iceresist			 = -1;	
+o_item_drop_stackable_stats.lightresist			 = -1;	
+o_item_drop_stackable_stats.shadowresist		 = -1;
+o_item_drop_stackable_stats.allelementresist	 = -1;
+o_item_drop_stackable_stats.subweapon			 = -1;	
+o_item_drop_stackable_stats.socket1				 = -1;	
+o_item_drop_stackable_stats.socket2				 = -1;	
+o_item_drop_stackable_stats.socket3				 = -1;	
+o_item_drop_stackable_stats.abilities			 = -1;	
+o_item_drop_stackable_stats.ability1			 = -1;
+o_item_drop_stackable_stats.ability2			 = -1;
+o_item_drop_stackable_stats.ability3			 = -1;
+o_item_drop_stackable_stats.statbonuses			 = -1;	
+o_item_drop_stackable_stats.strbonus			 = -1;
+o_item_drop_stackable_stats.dexbonus			 = -1;
+o_item_drop_stackable_stats.intelbonus			 = -1;	
+o_item_drop_stackable_stats.vitbonus			 = -1;
+o_item_drop_stackable_stats.physbonus			 = -1;	
+o_item_drop_stackable_stats.firebonus			 = -1;	
+o_item_drop_stackable_stats.lightningbonus		 = -1;	
+o_item_drop_stackable_stats.icebonus			 = -1;
+o_item_drop_stackable_stats.lightbonus			 = -1;	
+o_item_drop_stackable_stats.shadowbonus			 = -1;	
+o_item_drop_stackable_stats.allelementbonus		 = -1;	
+o_item_drop_stackable_stats.set					 = -1;	
+o_item_drop_stackable_stats.setbonus1			 = -1;	
+o_item_drop_stackable_stats.setbonus2			 = -1;	
+o_item_drop_stackable_stats.setbonus3			 = -1;	
+o_item_drop_stackable_stats.setdescription1		 = -1;	
+o_item_drop_stackable_stats.setdescription2		 = -1;	
+o_item_drop_stackable_stats.setdescription3		 = -1;
+o_item_drop_stackable_stats.statbonus1			 = -1;	
+o_item_drop_stackable_stats.statbonus2			 = -1;	
+o_item_drop_stackable_stats.statbonus3			 = -1;	
+o_item_drop_stackable_stats.evasion				 = -1;

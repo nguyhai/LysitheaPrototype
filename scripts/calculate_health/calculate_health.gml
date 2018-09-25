@@ -1,0 +1,11 @@
+/// @DnDAction : YoYo Games.Common.Execute_Code
+/// @DnDVersion : 1
+/// @DnDHash : 10F6D39B
+/// @DnDArgument : "code" "/// @description Execute Code$(13_10)var level = argument0;$(13_10)var hth = argument1;$(13_10)$(13_10)// Calculate the health$(13_10)$(13_10)return round ((hth*3*level)+(4*level));$(13_10)"
+/// @description Execute Code
+var level = argument0;
+var hth = argument1;
+
+// Calculate the health
+
+return round ((hth*3*level)+(4*level));

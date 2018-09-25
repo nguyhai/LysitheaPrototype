@@ -1,0 +1,15 @@
+
+Use the following data in Game Maker:
+
+Number of images: 28
+Images per row: 7
+Character width: 137
+Character height: 107
+Character set: ABCDEFGHIJKLMNOPQRSTUVWXYZ 
+
+Important: 
+- Remember to also copy/paste the last space in the character set
+- In Game Maker the " can cause trouble in strings. One way to handle a string like this: Hey "you"? 
+  it is to do someting like this: "Hey"+'"'+you+'"'+"?"+  (see also the Creation Code in room0)
+
+
